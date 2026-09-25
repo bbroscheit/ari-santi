@@ -61,22 +61,25 @@
 // console.log(pm);
 
 
-// 6 / "3"
-// "2" * "3"
-// 4 + 5 + "px"
-// "$" + 4 + 5
-// "4" - 2
-// "4px" - 2
-// 7 / 0
-// {}[0]
-// parseInt("09")
-// 5 && 2
-// 2 && 5
-// 5 || 0
-// 0 || 5
-// [3]+[3]-[10]
-// 3>2>1
-// [] == ![]
+//let prueba = 6 / "3";
+// prueba = "2" * "3"
+// let prueba = 4 + 5 + "px"
+// let prueba = "$" + 4 + 5
+// let prueba = "4" - 2
+// let prueba = "4px" - 2
+// let prueba = 7 / 0
+//let prueba = {}[0]
+// console.log(parseInt("09"))
+// let prueba = 5 && 2
+// let prueba = 2 && 5
+// let prueba = 5 || 0
+// let prueba = 0 || 5
+// let prueba = [3]+[3]-[10]
+// let prueba = 3>2>1
+// console.log([] == ![])
+
+//console.log(prueba)
+
 
 // function test() {
 //    console.log(a);
@@ -103,6 +106,7 @@
 // getFood(false);
 
 
+// console.log(snack);
 
 // var fullname = 'Juan Perez';
 // var obj = {
@@ -136,4 +140,3 @@
 
 // printing();
 
-    
