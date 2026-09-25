@@ -31,29 +31,29 @@
 // var baz = 2;
 
 
-// var instructor = 'Tony';
+// var instructor = 'ElBerna';
 // if (true) {
-//    var instructor = 'Franco';
+//    var instructor = 'ElFacu';
 // }
 // console.log(instructor);
 
 
-// var instructor = 'Tony';
+// var instructor = 'ElBerna';
 // console.log(instructor);
 // (function () {
 //    if (true) {
-//       var instructor = 'Franco';
+//       var instructor = 'ElFacu';
 //       console.log(instructor);
 //    }
 // })();
 // console.log(instructor);
 
 
-// var instructor = 'Tony';
+// var instructor = 'ElBerna';
 // let pm = 'Franco';
 // if (true) {
-//    var instructor = 'The Flash';
-//    let pm = 'Reverse Flash';
+//    var instructor = 'Batman';
+//    let pm = 'Joker';
 //    console.log(instructor);
 //    console.log(pm);
 // }
@@ -106,9 +106,9 @@
 
 // var fullname = 'Juan Perez';
 // var obj = {
-//    fullname: 'Natalia Nerea',
+//    fullname: 'Azul Maceo',
 //    prop: {
-//       fullname: 'Aurelio De Rosa',
+//       fullname: 'Santi Ferreyra',
 //       getFullname: function () {
 //          return this.fullname;
 //       },
@@ -135,3 +135,5 @@
 // }
 
 // printing();
+
+    
