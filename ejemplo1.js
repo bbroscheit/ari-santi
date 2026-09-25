@@ -90,11 +90,11 @@
 
 // test();
 
-// var snack = 'Meow Mix';
+// var snack = 'Meow Food';
 
 // function getFood(food) {
 //    if (food) {
-//       var snack = 'Friskies';
+//       var snack = 'Purina';
 //       return snack;
 //    }
 //    return snack;
