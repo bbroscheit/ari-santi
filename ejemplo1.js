@@ -106,7 +106,7 @@
 
 // var fullname = 'Juan Perez';
 // var obj = {
-//    fullname: 'Azul Maceo',
+//    fullname: 'Azul Macedo',
 //    prop: {
 //       fullname: 'Santi Ferreyra',
 //       getFullname: function () {
